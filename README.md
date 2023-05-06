@@ -1,1 +1,1 @@
-# SuniyDataset
+# SuniyIntellect
